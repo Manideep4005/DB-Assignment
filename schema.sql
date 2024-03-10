@@ -1,4 +1,5 @@
 /* creating of product table */
+/* I am not assigning the length of data types */
 
 create table product (
   id INT PRIMARY KEY,
